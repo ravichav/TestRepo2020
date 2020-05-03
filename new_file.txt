@@ -13,9 +13,7 @@
             html: 'First Ext JS Hello World Program'
             });
          });
-      </script>
-   </head>
-   <body>
-      <div id="helloWorldPanel"></div>
-   </body>
+      </script"></div>
+	  </head>
+   <body>Hello this is body content</body>
 </html>
