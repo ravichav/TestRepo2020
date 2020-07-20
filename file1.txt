@@ -1,0 +1,678 @@
+ Cluster detail
+	
+
+BRID
+	
+
+Resource Name
+	
+
+KIN ID
+RDB
+	
+
+DM
+From RDB
+	
+
+DP
+From RDB
+	
+
+Clarity Days
+T & E file
+	
+
+Nav Day
+NAV Task/8
+	
+
+Miss Match
+if Clarity day=NAV days then True else False
+	
+
+Final Days to Bill
+	
+
+ 
+
+ 
+
+Action Taken
+	
+
+ 
+
+ 
+
+POC
+
+Functions
+	
+
+G01255173
+	
+
+Alok Sahoo
+	
+
+105854_FS
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+20
+	
+
+19
+	
+
+Clarity is more than NAV
+	
+
+ 
+	
+
+ 
+	
+
+Alok Sahoo
+
+Functions
+	
+
+G01261867
+	
+
+Priyanka Dekate
+	
+
+8520_162541
+	
+
+Tarun Nayak
+	
+
+Vilas
+	
+
+ 
+	
+
+ 
+	
+
+NAV and Clarity Days Missing
+	
+
+ 
+	
+
+ 
+	
+
+Priyanka Dekate
+
+Functions
+	
+
+G01267185
+	
+
+Sandeep Behera
+	
+
+109355_FS
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+24
+	
+
+24
+	
+
+Matched
+	
+
+ 
+	
+
+ 
+	
+
+Alok Sahoo
+
+Functions
+	
+
+G01089127
+	
+
+Sourabh Kapare
+	
+
+71874_FS
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+ 
+	
+
+ 
+	
+
+NAV and Clarity Days Missing
+	
+
+ 
+	
+
+ 
+	
+
+NA
+
+Functions
+	
+
+G01244746
+	
+
+Mangesh Chavan
+	
+
+103158_FS
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+ 
+	
+
+ 
+	
+
+NAV and Clarity Days Missing
+	
+
+ 
+	
+
+ 
+	
+
+NA
+
+Functions
+	
+
+G01285699
+	
+
+Harshit Kothari
+	
+
+102346_FS
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+ 
+	
+
+0
+	
+
+Clarity Days Mising
+	
+
+ 
+	
+
+ 
+	
+
+Alok Sahoo
+
+Functions
+	
+
+G01297812
+	
+
+Anusha Jakkapalli
+	
+
+46009875
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+ 
+	
+
+22
+	
+
+Clarity Days Mising
+	
+
+ 
+	
+
+ 
+	
+
+Alok Sahoo
+
+Functions
+	
+
+G01306075
+	
+
+Jedhe Avinash
+	
+
+68811_FS
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+20
+	
+
+21
+	
+
+Clarity is less than NAV
+	
+
+ 
+	
+
+ 
+	
+
+Alok Sahoo
+
+Functions
+	
+
+G01307548
+	
+
+Abhishek Nigam
+	
+
+46012002
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+10
+	
+
+19
+	
+
+Clarity is less than NAV
+	
+
+ 
+	
+
+ 
+	
+
+Abhishek Nigam
+
+Functions
+	
+
+G01307883
+	
+
+Awadhesh Singh
+	
+
+102345_FS
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+19
+	
+
+ 
+	
+
+NAV Days Missing
+	
+
+ 19
+	
+
+LM approval received
+	
+
+Soumya Dash
+
+Functions
+	
+
+G01307882
+	
+
+Juhi Sharma
+	
+
+96559_FS
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+18
+	
+
+ 
+	
+
+NAV Days Missing
+	
+
+ 18
+	
+
+LM approval received
+	
+
+Soumya Dash
+
+Functions
+	
+
+G01307884
+	
+
+Swati Bihani
+	
+
+8520_157362
+	
+
+Tarun Nayak
+	
+
+Vilas
+	
+
+19
+	
+
+ 
+	
+
+NAV Days Missing
+	
+
+ 19
+	
+
+LM approval received
+	
+
+Soumya Dash
+
+Functions
+	
+
+G01308374
+	
+
+Robert Fay
+	
+
+50410227
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+8
+	
+
+9
+	
+
+Clarity is less than NAV
+	
+
+ 
+	
+
+ 
+	
+
+Sampath Parepalli
+
+Functions
+	
+
+G01309596
+	
+
+Preetam Bankhele
+	
+
+102900_FS
+	
+
+Tarun Nayak
+	
+
+Vilas
+	
+
+19
+	
+
+21
+	
+
+Clarity is less than NAV
+	
+
+ 
+	
+
+ 
+	
+
+Preetam
+
+Functions
+	
+
+G01311267
+	
+
+Srinivas Basava
+	
+
+98382_FS
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+19
+	
+
+ 
+	
+
+NAV Days Missing
+	
+
+ 
+	
+
+ 
+	
+
+NA
+
+Functions
+	
+
+G01311269
+	
+
+Samir Sayyad
+	
+
+166919
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+ 
+	
+
+ 
+	
+
+NAV and Clarity Days Missing
+	
+
+ 
+	
+
+ 
+	
+
+NA
+
+Functions
+	
+
+G01311170
+	
+
+Abhishek Sharma
+	
+
+46027273
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+ 
+	
+
+19
+	
+
+Clarity Days Mising
+	
+
+ 
+	
+
+ 
+	
+
+Abhishek Nigam
+
+Functions
+	
+
+G01312718
+	
+
+Ashwini Gawali
+	
+
+140493
+	
+
+Tarun Nayak
+	
+
+Karthik
+	
+
+ 
+	
+
+0
+	
+
+Clarity Days Mising
+	
+
+ 
+	
+
+ 
+	
+
+Ashwini Gawali
